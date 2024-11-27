@@ -10,3 +10,5 @@ commands in command prompt or relavent virtual environment.
 - then enter your local IP address inside the relevent place of httpServer.py file.
 - You have to send a http request to python server in order to start measuring.
 - Mathematical angle calculation part is included inside the controller.py file.
+
+https://github.com/user-attachments/assets/fcaece1e-cfb2-4676-b63e-2485fe8ad949
